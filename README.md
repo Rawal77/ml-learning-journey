@@ -9,3 +9,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored arithmetic and logical operators
   - Practiced useful functions: round(), divmod(), isinstance()
   - Documented with comments for better understanding
+
+**Day 2:** Exploring File Handling and OOP in Python
+  - Learned how to read, write, and append data to text files.
+  - Discovered the convenience of the with statement for automatically closing files.
+  - Classes and Objects: Understood how to model real-world entities using Python classes.
