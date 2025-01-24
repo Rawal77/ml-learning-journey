@@ -19,4 +19,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored the power of lambda functions for creating concise, anonymous functions.
   - Learned how to use filter(), map(), and reduce() to process and transform data efficiently.
 
-
+**Day 4:** 
+  - Explored the fundamentals of NumPy and created 1D, 2D, and 3D arrays to understand their structure and behavior.
+  - Learned about array attributes like shape, size, dtype, and ndim, which help analyze and manipulate arrays.
+  - Practiced reshaping arrays and converting between data types, such as int, float, and datetime.
+  - Gained hands-on experience with array methods like sum(), mean(), min(), and max() for quick data analysis.
