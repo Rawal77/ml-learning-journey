@@ -24,3 +24,22 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Learned about array attributes like shape, size, dtype, and ndim, which help analyze and manipulate arrays.
   - Practiced reshaping arrays and converting between data types, such as int, float, and datetime.
   - Gained hands-on experience with array methods like sum(), mean(), min(), and max() for quick data analysis.
+
+**Day 5:** Exploring Numpy, Arrays, Methods and Broadcasting
+  - Explored the difference between array and ndarray in NumPy.
+  - Learned array methods for reshaping, axis-specific operations, and calculations like sum, mean, min, and max.
+  - Practiced creating arrays using zeros, ones, and asarray from lists and tuples.
+  - Understood broadcasting rules for performing operations on arrays with different shapes.
+  - Discovered how to create arrays from iterables using fromiter.
+
+
+
+
+
+
+
+
+
+
+
+
