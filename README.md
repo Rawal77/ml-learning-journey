@@ -32,6 +32,13 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Understood broadcasting rules for performing operations on arrays with different shapes.
   - Discovered how to create arrays from iterables using fromiter.
 
+**Day 6:**  NumPy – Iteration, Updates, and Array Manipulation
+  - Practiced generating numerical ranges using arange, linspace, and logspace.
+  - Explored array iteration with standard loops, nditer, and ndenumerate for advanced traversal.
+  - Learned to update arrays using fill, indexing, put, and condition-based updates.
+  - Worked on array manipulation techniques like reshaping, flattening (flatten, ravel), concatenation, and splitting 
+    arrays.
+
 
 
 
