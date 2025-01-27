@@ -39,6 +39,20 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Worked on array manipulation techniques like reshaping, flattening (flatten, ravel), concatenation, and splitting 
     arrays.
 
+**Day 7:**  NumPy – String Manipulation and Mathematical Functions
+  - Performed string manipulations like concatenation with char.add(), title-casing with char.title(), and splitting, joining, and replacing characters in arrays.
+  - Applied bitwise operations like bitwise_and() for array-level binary calculations.
+  - Worked with trigonometric functions (sin, cos, arccos) and mathematical functions (exp, power, absolute, log).
+  - Performed arithmetic operations like addition, subtraction, and division, and explored statistical functions (mean, median, std, var) for data analysis.
+
+
+
+
+
+
+
+
+
 
 
 
