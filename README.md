@@ -45,6 +45,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Worked with trigonometric functions (sin, cos, arccos) and mathematical functions (exp, power, absolute, log).
   - Performed arithmetic operations like addition, subtraction, and division, and explored statistical functions (mean, median, std, var) for data analysis.
 
+**Day 8:**  NumPy – Indexing, Sorting, Searching, and Views
+  - Practiced fancy indexing and boolean indexing to select and filter array elements efficiently.
+  - Sorted arrays using np.sort(), argsort(), and axis-based sorting for multi-dimensional arrays.
+  - Explored searching techniques like np.searchsorted(), np.where(), np.argwhere(), and np.nonzero() to locate elements based on conditions.
+  - Worked on filtering arrays using boolean indexing, np.where(), np.extract(), and np.compress() with masks.
 
 
 
