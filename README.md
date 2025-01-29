@@ -51,6 +51,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored searching techniques like np.searchsorted(), np.where(), np.argwhere(), and np.nonzero() to locate elements based on conditions.
   - Worked on filtering arrays using boolean indexing, np.where(), np.extract(), and np.compress() with masks.
 
+**Day 9:**  Pandas – Introduction and Core Data Structures
+  - Learned about Series, a one-dimensional labeled array, and practiced creating Series from lists, tuples, and string values.
+  - Worked with DataFrames, a two-dimensional tabular data structure, and created DataFrames using dictionaries.
+  - Understood that Panels, previously used for three-dimensional data, are now deprecated, and explored concatenation as an alternative
+
 
 
 
