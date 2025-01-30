@@ -56,6 +56,13 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Worked with DataFrames, a two-dimensional tabular data structure, and created DataFrames using dictionaries.
   - Understood that Panels, previously used for three-dimensional data, are now deprecated, and explored concatenation as an alternative
 
+**Day 10:**  Pandas – Series Creation, Indexing and Arithmetic Operations
+  - Explored different methods to create a Pandas Series, including direct initialization, lists, tuples, and dictionaries.
+  - Practiced indexing techniques in Series:
+      - Label-based indexing (.loc[]) for accessing elements by custom labels.
+      - Integer-based indexing (.iloc[]) for position-based selection.
+      - Boolean indexing to filter elements based on conditions.
+
 
 
 
