@@ -62,6 +62,16 @@ A well-structured repository showcasing my journey through Python and ML concept
       - Label-based indexing (.loc[]) for accessing elements by custom labels.
       - Integer-based indexing (.iloc[]) for position-based selection.
       - Boolean indexing to filter elements based on conditions.
+        
+  **Day 11:**   Pandas – Series Comparisons, Aggregations, and Advanced Methods
+  - Practiced comparison operations on Series, including equality (==), inequality (!=), greater than (>), and less than (<) to compare elements efficiently.
+  - Explored aggregation functions such as mean(), min(), max(), count(), and sum() to derive insights from Series data.
+  - Worked with essential Series methods, including:
+    - head(n) & tail(n) for previewing data.
+    - describe() for statistical summaries.
+    - unique() & value_counts() for identifying distinct values and their frequencies.
+  - Handled missing data using fillna() to replace NaN values and dropna() to remove them.
+  - Used concat() to merge multiple Series, with ignore_index=True to reset indexing after concatenation.
 
 
 
