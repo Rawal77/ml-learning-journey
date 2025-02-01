@@ -63,7 +63,7 @@ A well-structured repository showcasing my journey through Python and ML concept
       - Integer-based indexing (.iloc[]) for position-based selection.
       - Boolean indexing to filter elements based on conditions.
         
-  **Day 11:**   Pandas – Series Comparisons, Aggregations, and Advanced Methods
+**Day 11:**   Pandas – Series Comparisons, Aggregations, and Advanced Methods
   - Practiced comparison operations on Series, including equality (==), inequality (!=), greater than (>), and less than (<) to compare elements efficiently.
   - Explored aggregation functions such as mean(), min(), max(), count(), and sum() to derive insights from Series data.
   - Worked with essential Series methods, including:
@@ -73,6 +73,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Handled missing data using fillna() to replace NaN values and dropna() to remove them.
   - Used concat() to merge multiple Series, with ignore_index=True to reset indexing after concatenation.
 
+**Day 12:**   Pandas – DataFrame Creation, Indexing, and Operations
+  - Explored different ways to create a DataFrame using lists, dictionaries, list of dictionaries, and Series.
+  - Practiced selecting, adding, and deleting columns using indexing and drop().
+  - Worked with row operations, including selecting with .loc[] and .iloc[], adding new rows, and deleting rows.
+  - Used aggregation functions like mean(), sum(), and count() to summarize data.
 
 
 
