@@ -79,8 +79,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Worked with row operations, including selecting with .loc[] and .iloc[], adding new rows, and deleting rows.
   - Used aggregation functions like mean(), sum(), and count() to summarize data.
 
-
-
+**Day 13:**   Pandas – Filtering, Missing Data Handling, and Advanced Methods
+  - Practiced filtering DataFrame rows based on conditions, such as selecting records with a specific grade or age above a threshold.
+  - Explored handling missing data using fillna() to replace NaN values and dropna() to remove them.
+  - Explored DataFrame attributes like index, columns, values, shape, and data types for better understanding.
+  - Applied functions to DataFrame columns using apply(), demonstrating transformations like multiplying numerical values.
 
 
 
