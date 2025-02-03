@@ -85,6 +85,16 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored DataFrame attributes like index, columns, values, shape, and data types for better understanding.
   - Applied functions to DataFrame columns using apply(), demonstrating transformations like multiplying numerical values.
 
+**Day 14:**   Pandas – Descriptive Statistics, Function Applications, and String Methods
+  - Learned reindexing to rearrange DataFrame rows and change Series indexes.
+  - Iterated through DataFrames using items(), iterrows(), and itertuples() for extracting and processing data efficiently.
+  - Sorted data using sort_values() and sort_index(), both for single and multiple columns.   
+  - Mastered string operations:
+     - Case transformations (lower(), title(), capitalize(), swapcase()).
+     - Whitespace handling (strip(), lstrip(), rstrip()).
+     - String manipulations (join(), replace(), contains(), startswith(), endswith()).
+     - Character counting and indexing (find(), rfind(), count(), len())
+
 
 
 
