@@ -94,6 +94,13 @@ A well-structured repository showcasing my journey through Python and ML concept
      - Whitespace handling (strip(), lstrip(), rstrip()).
      - String manipulations (join(), replace(), contains(), startswith(), endswith()).
      - Character counting and indexing (find(), rfind(), count(), len())
+   
+**Day 15:**   Pandas – Customization, Querying, Window Functions, and Grouping
+  - Customized Pandas display settings using set_option() and reset them with reset_option('all').
+  - Converted data types with astype(), ensuring proper handling of numerical and categorical data.
+  - Filtered data efficiently using the query() method with logical conditions (and, or).
+  - Applied rolling window functions (rolling(), expanding()) to compute moving aggregates.
+  - Used groupby() to group data and performed aggregations (sum(), mean(), min(), max()).
 
 
 
