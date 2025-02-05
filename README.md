@@ -102,10 +102,13 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Applied rolling window functions (rolling(), expanding()) to compute moving aggregates.
   - Used groupby() to group data and performed aggregations (sum(), mean(), min(), max()).
 
-
-
-
-
+**Day 16:**   Pandas – Reading & Writing Files (CSV, Excel, JSON)
+  - Used read_csv() to load CSV files into a DataFrame.
+  - Extracted specific columns and displayed subsets of data using head() and tail().
+  - Explored count(), shape, and column selection for basic data insights.
+  - Saved a DataFrame as a CSV file using to_csv(), and disabled index writing with index=False.
+  - Loaded Excel files with read_excel(), specifying the sheet name to extract data from specific sheets.
+  - Saved DataFrames to Excel files with to_excel() and ExcelWriter, ensuring a clean format by disabling index storage.
 
 
 
