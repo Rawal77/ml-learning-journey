@@ -110,6 +110,13 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Loaded Excel files with read_excel(), specifying the sheet name to extract data from specific sheets.
   - Saved DataFrames to Excel files with to_excel() and ExcelWriter, ensuring a clean format by disabling index storage.
 
+**Day 17:**   Pandas – Date & Time Handling
+  - Used to_datetime() to convert date strings into Pandas datetime objects.
+  - Extracted specific date components like year, month, day, and hour.
+  - Converted lists and DataFrame columns to datetime format for structured analysis.
+  - Handled different date formats using to_datetime(date, format='%Y/%m/%d') and formatted output with strftime().
+
+
 
 
 
