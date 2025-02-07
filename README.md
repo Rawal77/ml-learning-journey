@@ -116,6 +116,12 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Converted lists and DataFrame columns to datetime format for structured analysis.
   - Handled different date formats using to_datetime(date, format='%Y/%m/%d') and formatted output with strftime().
 
+**Day 18:**    Data Visualization with Matplotlib (Part 1)
+  - Used plt.bar() to create bar charts for visualizing categorical data.
+  - Created plt.plot() line graphs to analyze trends over time with markers and styles.
+  - Explored plt.scatter() for scatter plots to show relationships between numerical variables.
+  - Worked with real-world datasets like expense tracking and employee data to create meaningful visualizations.
+
 
 
 
