@@ -122,6 +122,14 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored plt.scatter() for scatter plots to show relationships between numerical variables.
   - Worked with real-world datasets like expense tracking and employee data to create meaningful visualizations.
 
+**Day 19:**    Data Visualization with Matplotlib (Part 2)
+  - Used plt.pie() to create pie charts for visualizing proportions and distributions.
+  - Applied customization options like explode, autopct, startangle, and custom colors for better readability.
+  - Grouped and visualized real-world expense data by payment mode using pie charts.
+
+
+
+
 
 
 
