@@ -127,6 +127,12 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Applied customization options like explode, autopct, startangle, and custom colors for better readability.
   - Grouped and visualized real-world expense data by payment mode using pie charts.
 
+**Day 20:**    Data Visualization with Matplotlib (Part 3)
+  - Used plt.boxplot() to create box plots for analyzing data distribution and detecting outliers.    
+  - Explored key box plot components, including quartiles, median, whiskers, and outliers.
+  - Used plt.hist() to generate histograms for visualizing frequency distributions.
+
+
 
 
 
