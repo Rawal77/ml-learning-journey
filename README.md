@@ -132,6 +132,12 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored key box plot components, including quartiles, median, whiskers, and outliers.
   - Used plt.hist() to generate histograms for visualizing frequency distributions.
 
+**Day 21:**    Data Visualization with Matplotlib (Part 4)
+  - Used plt.violinplot() to visualize data distributions with density estimation, combining aspects of box plots and KDE.
+  - Implemented plt.stem() for stemplots to analyze small datasets and identify patterns.
+  - Applied real-world datasets like Titanic passenger ages and meal calorie distributions for meaningful insights.
+
+
 
 
 
