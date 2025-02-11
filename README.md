@@ -137,6 +137,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Implemented plt.stem() for stemplots to analyze small datasets and identify patterns.
   - Applied real-world datasets like Titanic passenger ages and meal calorie distributions for meaningful insights.
 
+**Day 22:**    Data Visualization with Matplotlib (Part 5)
+  - Used plt.step() to visualize discrete changes over time, ideal for stepwise data trends.
+  - Explored where parameter (pre, post, mid) to control step transitions and their real-world applications.
+  - Applied plt.step() on an expense dataset to analyze cumulative spending trends across different categories.
 
 
 
