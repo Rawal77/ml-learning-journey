@@ -142,6 +142,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored where parameter (pre, post, mid) to control step transitions and their real-world applications.
   - Applied plt.step() on an expense dataset to analyze cumulative spending trends across different categories.
 
+**Day 23:**    Data Visualization with Matplotlib (Part 6)
+  - Used plt.legend() to enhance readability by distinguishing multiple data series in a single plot.
+  - Implemented legends in line plots, pie charts, and real-world datasets for better data interpretation.
+  - Analyzed real-world data like stock prices, monthly expenses, and workout trends using legends to compare multiple categories.
+
 
 
 
