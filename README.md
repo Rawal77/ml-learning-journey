@@ -147,7 +147,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Implemented legends in line plots, pie charts, and real-world datasets for better data interpretation.
   - Analyzed real-world data like stock prices, monthly expenses, and workout trends using legends to compare multiple categories.
 
-
+**Day 24:**    Data Visualization with Matplotlib (Part 7)
+  - Used plt.subplot() to create multiple plots within a single figure for better comparison.
+  - Highlighted why subplots are essential by first plotting separate graphs and then using plt.subplot() to organize them efficiently.
+  - Implemented multiple examples, including visualizing age vs. weight trends and analyzing real-world datasets like student performance and expense 
+    tracking.
 
 
 
