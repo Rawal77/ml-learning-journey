@@ -153,7 +153,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Implemented multiple examples, including visualizing age vs. weight trends and analyzing real-world datasets like student performance and expense 
     tracking.
 
-
+**Day 25:**    Data Visualization with Seaborn (Part 1)
+  - Used sns.heatmap() to visualize correlations between numerical variables, ensuring proper data formatting for accurate representation.
+  - Implemented sns.barplot() and sns.countplot() to analyze categorical data distributions, making comparisons more insightful.
 
 
 
