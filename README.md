@@ -157,6 +157,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Used sns.heatmap() to visualize correlations between numerical variables, ensuring proper data formatting for accurate representation.
   - Implemented sns.barplot() and sns.countplot() to analyze categorical data distributions, making comparisons more insightful.
 
+**Day 26:**    Data Visualization with Seaborn (Part 2)
+  - Used sns.stripplot() and sns.swarmplot() to visualize individual data points for categorical variables, ensuring better clarity in dense 
+    distributions.
+  - Implemented sns.lmplot() and sns.residplot() to analyze linear relationships and residual variations, aiding regression analysis.
+
 
 
 
