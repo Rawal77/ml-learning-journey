@@ -162,9 +162,10 @@ A well-structured repository showcasing my journey through Python and ML concept
     distributions.
   - Implemented sns.lmplot() and sns.residplot() to analyze linear relationships and residual variations, aiding regression analysis.
 
-
-
-
+**Day 27:**    Data Visualization with Seaborn (Part 3)
+  - Used sns.lineplot() to visualize trends in time series data, such as stock prices and weather patterns.
+  - Explored techniques for handling missing time series data using interpolation and forward-filling methods.
+  - Implemented multiple time series comparisons using the hue parameter to differentiate trends across categories.
 
 
 
