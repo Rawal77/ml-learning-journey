@@ -167,7 +167,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored techniques for handling missing time series data using interpolation and forward-filling methods.
   - Implemented multiple time series comparisons using the hue parameter to differentiate trends across categories.
 
-
+**Day 28:**    Data Visualization with Seaborn (Part 4)
+  - Used sns.relplot() with the kind="line" parameter to visualize multi-category time series data in a flexible way.
+  - Implemented rolling averages with .rolling().mean() to smooth trends and highlight long-term patterns.
+  - Analyzed seasonal patterns and anomalies in real-world datasets like sales trends and website traffic fluctuations.
 
 
 
