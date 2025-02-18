@@ -172,6 +172,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Implemented rolling averages with .rolling().mean() to smooth trends and highlight long-term patterns.
   - Analyzed seasonal patterns and anomalies in real-world datasets like sales trends and website traffic fluctuations.
 
+**Day 29:**    Data Visualization with Seaborn (Part 5)
+  - Used sns.scatterplot() to visualize relationships between bill length and depth in the Penguins dataset, highlighting species differences.
+  - Implemented sns.regplot() to analyze the correlation between flipper length and body mass, adding trend lines for better insights.
+  - Explored data distributions using sns.boxplot() and sns.violinplot(), comparing body mass across different species.
 
 
 
