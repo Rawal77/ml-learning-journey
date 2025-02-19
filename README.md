@@ -177,6 +177,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Implemented sns.regplot() to analyze the correlation between flipper length and body mass, adding trend lines for better insights.
   - Explored data distributions using sns.boxplot() and sns.violinplot(), comparing body mass across different species.
 
-
-
+**Day 30:**    Introduction to Statistics
+  - Defined statistics and explored its applications in various fields such as health, psychology, business, and sports.
+  - Discussed how statistics can sometimes be misleading due to factors like history effects and third-variable problems.
+  - Introduced descriptive statistics, distinguishing it from inferential statistics.
 
