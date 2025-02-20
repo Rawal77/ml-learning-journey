@@ -182,3 +182,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Discussed how statistics can sometimes be misleading due to factors like history effects and third-variable problems.
   - Introduced descriptive statistics, distinguishing it from inferential statistics.
 
+**Day 31:**    Inferential Statistics
+  - Explored the concepts of populations and samples, understanding how a subset of data can be used to make inferences about a larger group.
+  - Analyzed sampling bias through real-world examples, highlighting how improper sampling methods can lead to misleading conclusions.
+  - Learned about simple random sampling, ensuring that every member of a population has an equal chance of being selected.
+  - Discussed stratified sampling, a method that ensures proportional representation of different groups within a population for more accurate 
+    results.
+
