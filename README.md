@@ -189,3 +189,7 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Discussed stratified sampling, a method that ensures proportional representation of different groups within a population for more accurate 
     results.
 
+**Day 32:**    Understanding Variables & Data Collection
+  - Explored the fundamentals of independent and dependent variables, understanding how changes in one affect the other in research studies.
+  - Learned about discrete and continuous variables, understanding how data can be countable or measured on a scale.
+  - Covered the basics of data collection, emphasizing the importance of selecting the right method for accurate and reliable insights.
