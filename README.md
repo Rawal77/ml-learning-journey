@@ -193,3 +193,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Explored the fundamentals of independent and dependent variables, understanding how changes in one affect the other in research studies.
   - Learned about discrete and continuous variables, understanding how data can be countable or measured on a scale.
   - Covered the basics of data collection, emphasizing the importance of selecting the right method for accurate and reliable insights.
+
+**Day 33:**    Data Visualization & Measurement
+  - Covered the basics of data collection through measurement examples, understanding how different approaches impact data accuracy.
+  - Learned how to graph quantitative variables effectively to uncover patterns and insights.
+  - Created stem-and-leaf displays, examined their variations, and discussed their advantages in displaying data distributions.
+  - Summarized histograms, highlighting their role in visualizing frequency distributions.
