@@ -199,3 +199,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Learned how to graph quantitative variables effectively to uncover patterns and insights.
   - Created stem-and-leaf displays, examined their variations, and discussed their advantages in displaying data distributions.
   - Summarized histograms, highlighting their role in visualizing frequency distributions.
+
+**Day 34:**    Mastering Frequency Polygons & Bin Widths
+  - Choosing the Right Bin Width –  Striking the right balance is key for meaningful insights! 
+  - Frequency Polygons: Summary & Examples
+  - Cumulative Frequency Polygons – A powerful tool to track running totals and analyze percentiles, making trends easier to spot!
