@@ -204,3 +204,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Choosing the Right Bin Width –  Striking the right balance is key for meaningful insights! 
   - Frequency Polygons: Summary & Examples
   - Cumulative Frequency Polygons – A powerful tool to track running totals and analyze percentiles, making trends easier to spot!
+
+**Day 35:**    Box Plots & Bar Charts – Visualizing Data Effectively 
+  - Box Plots – A great way to summarize data distribution, highlight medians, quartiles, and detect outliers. Perfect for comparing datasets!
+  - Bar Charts: Summary & Uses – Best for categorical data, trends, and comparing means across groups. (e.g., Comparing sales across different regions)
+  - Why Use Bar Charts for Categories, Trends & Means? – They provide clear comparisons, making it easy to spot differences across groups.
