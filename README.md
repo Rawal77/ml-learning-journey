@@ -209,3 +209,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Box Plots – A great way to summarize data distribution, highlight medians, quartiles, and detect outliers. Perfect for comparing datasets!
   - Bar Charts: Summary & Uses – Best for categorical data, trends, and comparing means across groups. (e.g., Comparing sales across different regions)
   - Why Use Bar Charts for Categories, Trends & Means? – They provide clear comparisons, making it easy to spot differences across groups.
+
+**Day 36:**    Reinforcing Concepts Through Practice
+  - Frequency Histogram vs. Relative Frequency Histogram
+    - Frequency histograms show raw counts 
+    - Relative frequency histograms display proportions or percentages, making comparisons easier across different sample sizes 
+  - Stem-and-Leaf Diagrams – A simple yet effective way to organize numerical data while preserving individual values. Great for quick insights!
+  - Percentiles & Real-World Applications 
