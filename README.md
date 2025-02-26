@@ -215,4 +215,9 @@ A well-structured repository showcasing my journey through Python and ML concept
     - Frequency histograms show raw counts 
     - Relative frequency histograms display proportions or percentages, making comparisons easier across different sample sizes 
   - Stem-and-Leaf Diagrams – A simple yet effective way to organize numerical data while preserving individual values. Great for quick insights!
-  - Percentiles & Real-World Applications 
+  - Percentiles & Real-World Applications
+
+**Day 37:**    Mastering Measures of Central Tendency
+  - Mean, Median & Mode – The Three Pillars of Central Tendency
+  - Mean vs. Median – When to Use What?
+  - When Are Mean & Median the Same?
