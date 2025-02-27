@@ -221,3 +221,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Mean, Median & Mode – The Three Pillars of Central Tendency
   - Mean vs. Median – When to Use What?
   - When Are Mean & Median the Same?
+
+
+**Day 38:**    Understanding Variability in Statistics
+  - What is Variability?
+  - Range – The Simplest Measure
+  - Interquartile Range (IQR) – Better than Range?
+  - Variance – The Foundation of Spread!
+  - Standard Deviation – Making Variance Meaningful
