@@ -229,3 +229,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Interquartile Range (IQR) – Better than Range?
   - Variance – The Foundation of Spread!
   - Standard Deviation – Making Variance Meaningful
+
+**Day 39:**    Percentiles & Pearson Correlation Coefficient
+  - What is a Percentile?
+  - How to Calculate Percentiles
+  - Pearson Correlation Coefficient (r) and it's key properties
