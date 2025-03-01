@@ -234,3 +234,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - What is a Percentile?
   - How to Calculate Percentiles
   - Pearson Correlation Coefficient (r) and it's key properties
+
+**Day 40:**    Computing Pearson’s Correlation & Introduction to Probability
+  - What is a Percentile?
+  - Introduction to Probability - Classical Approach, Empirical Approach, Subjective Approach
+  - Basic Probability Concepts
+  - Probability of Independent Events
