@@ -240,3 +240,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Introduction to Probability - Classical Approach, Empirical Approach, Subjective Approach
   - Basic Probability Concepts
   - Probability of Independent Events
+
+**Day 41:**    Conditional Probability, The Birthday Paradox & More!
+  - Conditional Probability & Dependent Events
+  - The Gambler’s Fallacy
+  - Sample Space & Events
+  - Three-Child Family (Tree Diagram Representation) 
