@@ -245,4 +245,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Conditional Probability & Dependent Events
   - The Gambler’s Fallacy
   - Sample Space & Events
-  - Three-Child Family (Tree Diagram Representation) 
+  - Three-Child Family (Tree Diagram Representation)
+
+**Day 42:**    Exploring Key Probability Rules & Concepts
+  - Probability of Complements
+  - Intersection & Mutually Exclusive Events
+  - Union of Events & The Additive Rule of Probability
+  - Conditional Probability &  Independent Events
+
