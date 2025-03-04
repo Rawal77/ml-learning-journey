@@ -253,3 +253,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Union of Events & The Additive Rule of Probability
   - Conditional Probability &  Independent Events
 
+**Day 43:**    Probability, Counting & Random Variables!
+  - Tree Diagrams for Probability
+  - Permutation vs. Combination 🔢
+    - Permutation (Order Matters!)
+    - Combination (Order Doesn't Matter!)
+  - Random Variables & Their Types 🎲
+  - Probability Distribution of Discrete Random Variables
