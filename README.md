@@ -260,3 +260,10 @@ A well-structured repository showcasing my journey through Python and ML concept
     - Combination (Order Doesn't Matter!)
   - Random Variables & Their Types 🎲
   - Probability Distribution of Discrete Random Variables
+
+**Day 44:**    Deep Dive into Normal Distribution & Probability Computation
+  - Standard Normal Random Variable & Probability Computation 
+  - Computing Probabilities Using Cumulative Table
+  - Empirical Rule for Normal Distribution (68-95-99.7 Rule) 
+  - De Moivre & The Normal Approximation
+  - Central Limit Theorem & Normality
