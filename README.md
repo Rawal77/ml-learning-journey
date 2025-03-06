@@ -267,3 +267,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Empirical Rule for Normal Distribution (68-95-99.7 Rule) 
   - De Moivre & The Normal Approximation
   - Central Limit Theorem & Normality
+
+**Day 45:**    Probability Distributions & The Power of the Normal Curve
+  - Probability Distribution of a Continuous Random Variable
+  - The Normal Distribution (The Bell Curve) 🔔
+  - Probability Computations for General Normal Random Variables 
+  - Example: College Entrance Exam Scores 🎓
