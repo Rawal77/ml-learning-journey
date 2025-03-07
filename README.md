@@ -273,3 +273,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - The Normal Distribution (The Bell Curve) 🔔
   - Probability Computations for General Normal Random Variables 
   - Example: College Entrance Exam Scores 🎓
+
+**Day 46:**    Understanding Sampling Distributions & Tails of Normal Distributions 
+  - Tails of Distribution
+  - Tails of Standard Normal & Central Normal Distributions 
+  - Introduction to Sampling Distribution – Inferential Stats
+  - Discrete vs. Continuous Sampling Distributions
+  - Conceptualizing Sampling Distribution
