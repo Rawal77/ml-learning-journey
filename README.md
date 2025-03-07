@@ -240,3 +240,43 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Introduction to Probability - Classical Approach, Empirical Approach, Subjective Approach
   - Basic Probability Concepts
   - Probability of Independent Events
+
+**Day 41:**    Conditional Probability, The Birthday Paradox & More!
+  - Conditional Probability & Dependent Events
+  - The Gambler’s Fallacy
+  - Sample Space & Events
+  - Three-Child Family (Tree Diagram Representation)
+
+**Day 42:**    Exploring Key Probability Rules & Concepts
+  - Probability of Complements
+  - Intersection & Mutually Exclusive Events
+  - Union of Events & The Additive Rule of Probability
+  - Conditional Probability &  Independent Events
+
+**Day 43:**    Probability, Counting & Random Variables!
+  - Tree Diagrams for Probability
+  - Permutation vs. Combination 🔢
+    - Permutation (Order Matters!)
+    - Combination (Order Doesn't Matter!)
+  - Random Variables & Their Types 🎲
+  - Probability Distribution of Discrete Random Variables
+
+**Day 44:**    Deep Dive into Normal Distribution & Probability Computation
+  - Standard Normal Random Variable & Probability Computation 
+  - Computing Probabilities Using Cumulative Table
+  - Empirical Rule for Normal Distribution (68-95-99.7 Rule) 
+  - De Moivre & The Normal Approximation
+  - Central Limit Theorem & Normality
+
+**Day 45:**    Probability Distributions & The Power of the Normal Curve
+  - Probability Distribution of a Continuous Random Variable
+  - The Normal Distribution (The Bell Curve) 🔔
+  - Probability Computations for General Normal Random Variables 
+  - Example: College Entrance Exam Scores 🎓
+
+**Day 46:**    Understanding Sampling Distributions & Tails of Normal Distributions 
+  - Tails of Distribution
+  - Tails of Standard Normal & Central Normal Distributions 
+  - Introduction to Sampling Distribution – Inferential Stats
+  - Discrete vs. Continuous Sampling Distributions
+  - Conceptualizing Sampling Distribution
