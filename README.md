@@ -280,3 +280,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Introduction to Sampling Distribution – Inferential Stats
   - Discrete vs. Continuous Sampling Distributions
   - Conceptualizing Sampling Distribution
+
+**Day 47:**    Deep Dive into Sampling Distributions & the Central Limit Theorem (CLT) 
+  - Sampling Distribution of the Mean 📊
+  - Central Limit Theorem (CLT) 🧠
+  - Sampling Distribution of the Difference Between Means 📊
+  - Computing Probabilities Using Sampling Distributions 🎲
