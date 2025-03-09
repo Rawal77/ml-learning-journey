@@ -286,3 +286,11 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Central Limit Theorem (CLT) 🧠
   - Sampling Distribution of the Difference Between Means 📊
   - Computing Probabilities Using Sampling Distributions 🎲
+
+**Day 48:**    Sampling Distributions, Confidence Intervals & Estimators
+  - Sampling Distribution of Pearson’s r 📈
+  - Transforming r to Fisher’s z’ 📊
+  - Computing the Standard Error of z’
+  -  Confidence Intervals (Interval Estimates) 📏
+  -  Characteristics of Estimators 📊
+  -  Understanding Bias in Estimation 🚨
