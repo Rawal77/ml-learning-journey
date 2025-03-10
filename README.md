@@ -291,6 +291,12 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Sampling Distribution of Pearson’s r 📈
   - Transforming r to Fisher’s z’ 📊
   - Computing the Standard Error of z’
-  -  Confidence Intervals (Interval Estimates) 📏
-  -  Characteristics of Estimators 📊
-  -  Understanding Bias in Estimation 🚨
+  - Confidence Intervals (Interval Estimates) 📏
+  - Characteristics of Estimators 📊
+  - Understanding Bias in Estimation 🚨
+
+**Day 49:**    Confidence Intervals, T-Distribution & Finding T-Values 🎯
+  - Confidence Intervals (CIs) & Common Misconceptions 🔍
+  - Confidence Intervals for the Mean (𝜇) 📏
+  - T-Distribution vs. Normal Distribution 📊
+  - Finding T-Values from the T-Table 📖
