@@ -300,3 +300,8 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Confidence Intervals for the Mean (𝜇) 📏
   - T-Distribution vs. Normal Distribution 📊
   - Finding T-Values from the T-Table 📖
+
+**Day 50:**    Confidence Intervals for Differences & Correlations 🎯
+  - Confidence Interval for the Difference Between Means (𝜇₁ - 𝜇₂) 📏
+  - Confidence Interval for Pearson’s Correlation Coefficient (ρ) 📈
+  - Standard Error of Fisher’s Z' Transformation (SE of Z') 🔄
