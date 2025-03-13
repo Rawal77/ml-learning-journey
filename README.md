@@ -311,3 +311,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Understanding Probability Values (p-values) 🎲
   - Type I vs. Type II Errors
   - One-Tailed vs. Two-Tailed Tests 📈
+
+**Day 52:**    Mastering Hypothesis Testing & the p-Value Approach 🎯
+  - When to Use a Two-Tailed Test? 🔄
+  - Understanding the Observed Significance (p-value) 🎲
+  - p-Value Approach to Hypothesis Testing 📊
+  - Testing the Null Hypothesis (H₀) 🧐
