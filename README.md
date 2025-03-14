@@ -317,3 +317,9 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Understanding the Observed Significance (p-value) 🎲
   - p-Value Approach to Hypothesis Testing 📊
   - Testing the Null Hypothesis (H₀) 🧐
+
+**Day 53:**    Hypothesis Testing with Small & Large Samples 🎯
+  - Standardized Test Statistics for Small Samples 📏
+  - Using the p-Value Approach 📊
+  - Large Sample Test for a Population Proportion 📈
+  - Assumptions for Testing the Difference Between Two Means 🎯
