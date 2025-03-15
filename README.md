@@ -323,3 +323,12 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Using the p-Value Approach 📊
   - Large Sample Test for a Population Proportion 📈
   - Assumptions for Testing the Difference Between Two Means 🎯
+
+**Day 54:**    Chi-Square Tests & Introduction to Linear Regression 🎯
+  - Chi-Square Test for Contingency Tables 🔢
+  - Steps to Compute Chi-Square (χ²) 📊
+  - Chi-Square Distribution & Goodness-of-Fit Test 
+  - Chi-Square Goodness-of-Fit Test
+  - Introduction to Linear Regression 📈
+
+
