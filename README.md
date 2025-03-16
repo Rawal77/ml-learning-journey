@@ -331,4 +331,10 @@ A well-structured repository showcasing my journey through Python and ML concept
   - Chi-Square Goodness-of-Fit Test
   - Introduction to Linear Regression 📈
 
+**Day 55:**    Linear Regression & Correlation 🎯
+  - Linear Equation in Regression
+  - Why Are Linear Equations Useful?
+  - Understanding the Correlation Coefficient (r) & Coefficient of Determination (r²)
+  - Partitioning the Sums of Squares
+  - Inferential Statistics for Regression Slope (b) & Correlation (r)
 
